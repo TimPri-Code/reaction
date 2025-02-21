@@ -4,12 +4,12 @@ body{
 
 .flex-container{
   background-color: aliceblue;
-  width: 800px;
+  width: 900px;
   height: 800px;
   margin: 200px 800px auto;
  padding-top: 5%;
  padding-left: 5%;
- padding-right: 0%;
+ padding-right: 5%;
   align-content: center;
   display: block;
  display: flex;
