@@ -7,14 +7,12 @@ body{
   width: 600px;
   height: 800px;
   margin: 3% auto;
- padding: auto;
  padding-top: 5%;
- padding-right: 5%;
  padding-left: 5%;
  align-content: center;
  display: flex;
  flex-direction: row;
-text-align: center
+text-align: center;
    
 }
 
@@ -22,12 +20,13 @@ text-align: center
     background-color: rgb(33, 33, 157);
     width: 300px;
     height: 45vh;
-       padding-left: 5%;
+    padding-left: 5%;
     padding-right: 0%;
-       border-width: 20%;
+    border-width: 20%;
     border-radius: 10%;
-     text-align: center;
-     color: rgb(232, 229, 229)
+    text-align: center;
+    color: rgb(232, 229, 229);
+    font-size: 18px;
     
 }
 
@@ -91,7 +90,6 @@ color: goldenrod;
   border-radius: 50%;
   background-color:#353b8d;
   padding: 0%;
-  text-wrap: 20px; 
          
       
        }
